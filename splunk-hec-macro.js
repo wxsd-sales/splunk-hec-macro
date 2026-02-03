@@ -1,6 +1,7 @@
-// based on Tore's(tbjolset@cisco.com)DataDog macro
-// modified by Harish (hachawla@cisco.com) and Taylor (tahanson@cisco.com)
-// tested only on Deskpro RoomOS and MTR
+// WARNING: This is a sample macro for expereimental purposes in a lab environment only and NOT TAC supported
+// Based on Tore's(tbjolset@cisco.com)DataDog macro
+// Modified by Harish (hachawla@cisco.com) and Taylor (tahanson@cisco.com) for Splunk hydration over HEC
+// Tested only on Deskpro RoomOS and MTR
 
 import xapi from 'xapi';
 
